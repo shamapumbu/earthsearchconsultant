@@ -3,6 +3,7 @@ body {
     background: #f6f8fd;
   }
 
+
   .blueheader {
     color:rgb(106, 106, 243);
   }
@@ -10,6 +11,8 @@ body {
   .orangeheader {
     color:rgb(253, 178, 37);
   }
+
+  
   
   .bg-nav {
     background-color: #f6f8fd;
